@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{0FBB7E65-7EB1-4CDC-97AD-523651A5384F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataBackup.App", "src\DataBackup.App\DataBackup.App.csproj", "{68B1CD5A-8430-40ED-830D-70132AA2483F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68B1CD5A-8430-40ED-830D-70132AA2483F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68B1CD5A-8430-40ED-830D-70132AA2483F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68B1CD5A-8430-40ED-830D-70132AA2483F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68B1CD5A-8430-40ED-830D-70132AA2483F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{68B1CD5A-8430-40ED-830D-70132AA2483F} = {0FBB7E65-7EB1-4CDC-97AD-523651A5384F}
+	EndGlobalSection
+EndGlobal
